@@ -1,8 +1,3 @@
-# Leeds-SoftRasizater
-
-It is a old-school cpu rasizater, it was a coursework showcase need a lot of improvement in the future.
-
-## Instructions
 To compile on University Linux:
 
 module load legacy-eng
